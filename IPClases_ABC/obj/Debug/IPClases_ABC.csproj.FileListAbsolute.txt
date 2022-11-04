@@ -1,0 +1,31 @@
+D:\SEMESTRE_2017II\TALLER3\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.exe.config
+D:\SEMESTRE_2017II\TALLER3\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.exe
+D:\SEMESTRE_2017II\TALLER3\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.pdb
+D:\SEMESTRE_2017II\TALLER3\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.Form1.resources
+D:\SEMESTRE_2017II\TALLER3\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.Properties.Resources.resources
+D:\SEMESTRE_2017II\TALLER3\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.csproj.GenerateResource.Cache
+D:\SEMESTRE_2017II\TALLER3\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.exe
+D:\SEMESTRE_2017II\TALLER3\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.pdb
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.exe.config
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.exe
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.pdb
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.exe
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.pdb
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.Form1.resources
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\Redes de Computadoras\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\5_Redes de Computadoras\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.exe.config
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\5_Redes de Computadoras\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.exe
+C:\Users\Usuario\Desktop\SEMESTRE 2018-I\5_Redes de Computadoras\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.pdb
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.exe.config
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.exe
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\bin\Debug\IPClases_ABC.pdb
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.csproj.AssemblyReference.cache
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.Form1.resources
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.Properties.Resources.resources
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.csproj.GenerateResource.cache
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.csproj.CoreCompileInputs.cache
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.exe
+C:\Users\nuez_\OneDrive\Escritorio\IPClases_ABC\IPClases_ABC\obj\Debug\IPClases_ABC.pdb
